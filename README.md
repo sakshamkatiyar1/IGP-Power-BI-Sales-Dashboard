@@ -42,5 +42,5 @@ The dashboard uses CSV files exported from **IGP E-Commerce’s internal systems
 
 ## Screenshots
 
-**Dashboard Preview**.(
+[Dashboard Preview](https://github.com/sakshamkatiyar1-Enter/IGP-Power-BI-Sales-Dashboard/blob/main/Dashboard%20screenshot.PNG)
 
